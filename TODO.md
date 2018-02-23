@@ -14,3 +14,10 @@ add recommended reading age
 TODOs
 
 introduce extra checks - check with sword data and add own JSON data
+
+
+
+
+pull more data to JSON file
+created date
+source
