@@ -1,0 +1,11 @@
+{
+  "ESV2011": {
+    "expectedOmittedCount": 17
+  },
+  "KJV": {
+    "expectedOmittedCount": 0
+  },
+  "WEB": {
+    "expectedOmittedCount": 4
+  }
+}
