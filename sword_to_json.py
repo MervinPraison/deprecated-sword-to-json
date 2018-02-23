@@ -27,6 +27,7 @@ def get_bible_json(path, overwrite):
         return None
 
     bible = modules.get_bible_from_module(version)
+    # noinspection PyProtectedMember
     raw_books = bible.get_structure()._books['ot'] + bible.get_structure()._books['nt']
     validate.books(len(raw_books))
 
