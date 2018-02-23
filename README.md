@@ -7,3 +7,13 @@
 Development is in active progress but this utility is not yet ready for public use.
 
 Expected completion date is end of March 2018.
+
+
+
+<br>
+
+## Dependencies
+
+Python 3.6 or higher and pysword .. `pip install pysword`
+
+
