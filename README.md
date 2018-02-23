@@ -14,6 +14,6 @@ Expected completion date is end of March 2018.
 
 ## Dependencies
 
-Python 3.6 or higher and pysword .. `pip install pysword`
+Python 3.6 or higher
 
-
+Then to install project dependencies `pip install -r requirements.txt`
