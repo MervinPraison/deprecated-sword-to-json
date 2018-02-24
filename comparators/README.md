@@ -12,6 +12,7 @@ dbt
 XML comparators:
 
 http://ebible.org/find - osis usfx vpl
+dbt - http://dbt.io/text/verse?v=2&key=XXXXX&dam_id=ENGKJVN2ET
 
 
 
