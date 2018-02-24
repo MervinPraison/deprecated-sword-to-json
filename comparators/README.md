@@ -3,12 +3,6 @@ Comparators are NOT used to generate the files we produce.
 
 
 
-To research:
-
-dbt
-
-
-
 XML comparators:
 
 http://ebible.org/find - osis usfx vpl
