@@ -20,7 +20,7 @@ tidy verses
 bibles folder should maintain folder structure
 
 look at popularity on zefania
-
+LOOK FOR BIBLES IN XML OR JSON - MUST BE TRUSTWORTHY - need comparators
 Use OSIS format: <verse osisID="Gen.1.1"><w>In the beginning</w> <w>God</w> <w>created</w> <w>the heaven</w> <w>and</w> <w>the earth</w>.</verse>
 Also see OSIS format on https://sourceforge.net/projects/zefania-sharp/files/Bibles
 
