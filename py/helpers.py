@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 
 def does_bible_json_exist(version):
@@ -22,3 +23,12 @@ def write_bible_json(bible):
     print(f'{version} - writing JSON file')
     with open(exists_obj['filename'], 'w') as f:
         json.dump(bible, f)
+
+    if os.environ.get('PYTHON_ENV') == 'development':
+        for book in bible['books']:
+            for chapter in book['chapters']:
+                chapter['verses'] = []
+
+        partial_filename = re.sub('.json$', '-partial.json', exists_obj['filename'])
+        with open(partial_filename, 'w') as f:
+            f.write(json.dumps(bible, indent=2))

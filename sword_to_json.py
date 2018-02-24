@@ -124,14 +124,14 @@ def get_bible_json(path, overwrite):
     report.eoc(actual_eoc_differences)
 
     validate.chapters(chapter_count)
-    passed_verses = validate.verses(len(all_verses), len(actual_eoc_differences), len(omitted_verses))
+    passed_extra_verse_checks = validate.verses(len(all_verses), actual_eoc_differences, omitted_verses)
 
     return {
         'version': version,
         'omittedVerses': omitted_verses,
         'endOfChapterDifferences': actual_eoc_differences,
         'verseCount': len(all_verses),
-        'passedVerseCountChecks': passed_verses,
+        'passedExtraVerseChecks': passed_extra_verse_checks,
         'books': books
     }
 

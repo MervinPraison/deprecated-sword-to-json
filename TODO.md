@@ -13,8 +13,9 @@ add recommended reading age
 
 TODOs
 
-introduce extra checks - check with sword data and add own JSON data
+introduce extra checks - check with sword data
 
+tidy verses
 
 
 
