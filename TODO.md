@@ -37,3 +37,9 @@ created date
 source
 
 ESV verse audio and timings
+
+https://www.harpercollinschristian.com/permissions/#1
+
+Bible in Basic English?
+
+Christian Standard Bible / Holman Christian Standard Bible?
