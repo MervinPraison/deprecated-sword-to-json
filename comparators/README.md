@@ -34,6 +34,8 @@ American King James Version
 Don't bother with:
 
 http://www.opensong.org/home/download - .xmm format lol
+https://sourceforge.net/projects/zefania-sharp/files/Bibles - poor quality
 https://github.com/honza/bibles - poor quality
 https://github.com/matt-cook/bible - poor quality
-https://sourceforge.net/projects/zefania-sharp/files/Bibles - poor quality
+https://github.com/thiagobodruk/bible - 2 eng versions only
+https://github.com/godlytalias/Bible-Database - 1 eng version only
