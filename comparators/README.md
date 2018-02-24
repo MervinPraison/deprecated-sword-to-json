@@ -2,6 +2,7 @@ Comparators are used to check the quality of the files we produce.
 Comparators are NOT used to generate the files we produce.
 
 zefania - https://sourceforge.net/projects/zefania-sharp/files/Bibles
+matt-cook - https://github.com/matt-cook/bible
 
 
 
@@ -22,4 +23,4 @@ American King James Version
 
 Don't bother with:
 
-http://www.opensong.org/home/download
+http://www.opensong.org/home/download - .xmm format lol
