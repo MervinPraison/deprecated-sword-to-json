@@ -17,6 +17,8 @@ introduce extra checks - check with sword data
 
 tidy verses
 
+bibles folder should maintain folder structure
+
 
 
 pull more data to JSON file
