@@ -24,3 +24,4 @@ American King James Version
 Don't bother with:
 
 http://www.opensong.org/home/download - .xmm format lol
+https://github.com/honza/bibles - poor quality
