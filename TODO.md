@@ -26,6 +26,8 @@ Also see OSIS format on https://sourceforge.net/projects/zefania-sharp/files/Bib
 
 
 
+Put sword utilities in project?
+
 VOTD
 
 pull more data to JSON file
