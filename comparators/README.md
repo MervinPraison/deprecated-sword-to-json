@@ -7,6 +7,7 @@ XML comparators:
 
 http://ebible.org/find - osis usfx vpl
 dbt - http://dbt.io/text/verse?v=2&key=XXXXX&dam_id=ENGKJVN2ET
+http://www.opensong.org/home/download
 
 
 
@@ -37,7 +38,6 @@ American King James Version
 
 Don't bother with:
 
-http://www.opensong.org/home/download - .xmm format lol
 https://sourceforge.net/projects/zefania-sharp/files/Bibles - poor quality
 https://github.com/honza/bibles - poor quality
 https://github.com/matt-cook/bible - poor quality
