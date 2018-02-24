@@ -19,6 +19,8 @@ tidy verses
 
 bibles folder should maintain folder structure
 
+look at popularity on zefania
+
 
 
 pull more data to JSON file
