@@ -9,6 +9,7 @@ http://ebible.org/find - osis usfx vpl
 
 mod2imp:
 
+https://www.crosswire.org/sword/software/biblecs
 http://crosswire.org/ftpmirror/pub/sword/utils/win32
 mod2imp KJV -r OSIS > kjv.osis
 mod2imp KJV -s > kjv.strip
