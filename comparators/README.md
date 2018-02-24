@@ -7,6 +7,15 @@ http://ebible.org/find - osis usfx vpl
 
 
 
+mod2imp:
+
+http://crosswire.org/ftpmirror/pub/sword/utils/win32
+mod2imp KJV -r OSIS > kjv.osis
+mod2imp KJV -s > kjv.strip
+obtain text data from source - see the TextSource entry in the modules .conf file
+
+
+
 Different formats:
 
 http://biblehub.net/database - 9 versions in Excel format
