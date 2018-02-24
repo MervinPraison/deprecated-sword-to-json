@@ -23,6 +23,8 @@ look at popularity on zefania
 LOOK FOR BIBLES IN XML OR JSON - MUST BE TRUSTWORTHY - need comparators
 Use OSIS format: <verse osisID="Gen.1.1"><w>In the beginning</w> <w>God</w> <w>created</w> <w>the heaven</w> <w>and</w> <w>the earth</w>.</verse>
 Also see OSIS format on https://sourceforge.net/projects/zefania-sharp/files/Bibles
+http://wiki.crosswire.org/OSIS_Tutorial
+Also see osis-examples folder
 
 
 
@@ -33,3 +35,5 @@ VOTD
 pull more data to JSON file
 created date
 source
+
+ESV verse audio and timings
