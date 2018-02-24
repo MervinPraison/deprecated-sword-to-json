@@ -1,7 +1,9 @@
 Comparators are used to check the quality of the files we produce.
 Comparators are NOT used to generate the files we produce.
 
-zefania - https://sourceforge.net/projects/zefania-sharp/files/Bibles
+XML comparators:
+
+http://ebible.org/find - osis usfx vpl
 
 
 
@@ -25,3 +27,4 @@ Don't bother with:
 http://www.opensong.org/home/download - .xmm format lol
 https://github.com/honza/bibles - poor quality
 https://github.com/matt-cook/bible - poor quality
+https://sourceforge.net/projects/zefania-sharp/files/Bibles - poor quality
