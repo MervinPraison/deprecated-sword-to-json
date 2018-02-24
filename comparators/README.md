@@ -36,6 +36,12 @@ American King James Version
 
 
 
+Interesting:
+
+https://www.ph4.org/b4_mobi.php?q=zefania
+
+
+
 Don't bother with:
 
 https://sourceforge.net/projects/zefania-sharp/files/Bibles - poor quality
