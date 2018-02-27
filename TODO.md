@@ -28,6 +28,10 @@ Also see osis-examples folder
 
 
 
+put checks for common errors - e.g. BOOK
+
+
+
 Put sword utilities in project?
 
 VOTD
