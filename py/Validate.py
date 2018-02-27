@@ -1,21 +1,14 @@
-import json
-import os
 from py.vars import expected_book_count, expected_chapter_count, expected_bloated_verse_count
+from py.loaders import load_checks
 
 
 class Validate:
 
     def __init__(self, version):
         self.version = version
-
-        path = os.path.abspath('')
-        filename = f'{path}/optional-extra-verse-checks-data.json'
-
-        with open(filename) as data:
-            my_json = json.load(data)
-            validate = my_json.get(version, {})
-        self.expected_omitted_verses = validate.get('expectedOmittedVerses')
-        self.expected_eoc_differences = validate.get('expectedEndOfChapterDifferences')
+        checks = load_checks(version)
+        self.expected_omitted_verses = checks.get('expectedOmittedVerses')
+        self.expected_eoc_differences = checks.get('expectedEndOfChapterDifferences')
 
     def keys(self, actual_key_count):
         expected_key_count = 1

@@ -1,6 +1,36 @@
 {
   "KJV": {
     "expectedOmittedVerses": [],
-    "expectedEndOfChapterDifferences": ["Rom 14:24", "Rom 14:25", "Rom 14:26", "3John 1:15", "Rev 12:18"]
+    "expectedEndOfChapterDifferences": [
+      "Rom 14:24",
+      "Rom 14:25",
+      "Rom 14:26",
+      "3John 1:15",
+      "Rev 12:18"
+    ],
+    "comparator": {
+      "name": "BibleHubComparator",
+      "prefer": [
+        ["Lord\u2019s", "LORD'S", "LORD'S"],
+        ["Lord", "LORD", "LORD"],
+        ["God", "GOD", "GOD"],
+        ["Jehovah", "JEHOVAH", "JEHOVAH"],
+        ["\u2019", "'", "'"],
+        ["\u2013", "", "-"],
+        ["enquire", "inquire", "enquire"],
+        ["Enquire", "Inquire", "Enquire"],
+        ["the Hivites", "and the Hivites", "the Hivites", "Exodus 23:23"],
+        ["razor", "rasor", "razor"],
+        ["thee-ward", "theeward", "thee-ward"],
+        ["counsellor", "counseller", "counsellor"],
+        ["Gaba", "Geba", "Gaba", "Ezra 2:26"],
+        ["expenses", "expences", "expenses"],
+        ["", "{A Psalm of David, when he fled from Absalom his son.} ", "", "Psalm 3:1"]
+      ],
+      "others": [
+        ["Hai", "Hai", "Hai"],
+        ["", "", ""]
+      ]
+    }
   }
 }

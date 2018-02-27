@@ -1,6 +1,8 @@
 import json
 import os
 import re
+from comparators.eng.biblehub.comparator import BibleHubComparator
+from py.loaders import load_checks
 
 
 def does_bible_json_exist(version):
@@ -32,3 +34,13 @@ def write_bible_json(bible):
         partial_filename = re.sub('.json$', '-partial.json', exists_obj['filename'])
         with open(partial_filename, 'w') as f:
             f.write(json.dumps(bible, indent=2))
+
+
+def get_comparator(version):
+    checks = load_checks(version)
+    str_comparator = checks.get('comparator').get('name')
+
+    if str_comparator == 'BibleHubComparator':
+        return BibleHubComparator(version)
+
+    return None

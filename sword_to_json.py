@@ -8,6 +8,7 @@ from py.vars import omissible_verses
 from py.vars import permissible_eoc_differences
 from py.helpers import does_bible_json_exist
 from py.helpers import write_bible_json
+from py.helpers import get_comparator
 
 # from pprint import pprint  # pprint(vars(book))
 
@@ -20,6 +21,7 @@ def get_bible_json(path, overwrite):
     validate = Validate(version)
     report = Report(version)
     validate.keys(len(keys))
+    comparator = get_comparator(version)
 
     exists_obj = does_bible_json_exist(version)
     if exists_obj['exists'] and not overwrite:
@@ -90,6 +92,9 @@ def get_bible_json(path, overwrite):
                         raise Exception(f'{version} - text is none for {verse_ref}')
 
                 else:
+
+                    if comparator is not None:
+                        text = comparator.compare(text)
 
                     verse = {
                         'verse': verseIdx + 1,
