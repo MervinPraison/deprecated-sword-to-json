@@ -28,7 +28,17 @@ Also see osis-examples folder
 
 
 
+
+
 put checks for common errors - e.g. BOOK
+
+versions with diff verse numbering in Psalms (see Psalm 51) => CJB, Douay-Rheims, NABRE, OJB (kinda), TLV
+
+
+
+
+
+
 
 
 
