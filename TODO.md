@@ -33,7 +33,7 @@ IMPORTANT: DO NOT DELETE NOTES WHICH MAY BE HELPFUL IN THE FUTURE
 
 
 
-checks for Psalm 1 and virgin
+checks for Psalm 1 and virgin and pierced hands
 
 checks against SWORD verse count
 
