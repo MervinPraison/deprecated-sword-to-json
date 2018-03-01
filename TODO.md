@@ -40,6 +40,7 @@ checks against SWORD verse count
 put checks for common errors - e.g. BOOK
 
 versions with diff verse numbering in Psalms (see Psalm 51) => CJB, Douay-Rheims, NABRE, OJB (kinda), The Passion Translation (TPT), Tree of Life Version (TLV)
+these versions can have verse breaks in different places - see Psalm 11 - too difficult to manage for now
 
 leave hyphens in coz checks wont find prob if comparator agrees - so some versions will and some wont
 
