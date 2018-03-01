@@ -1,3 +1,5 @@
+IMPORTANT: DO NOT DELETE NOTES WHICH MAY BE HELPFUL IN THE FUTURE
+
 Consider expected verse count
 
 31102 + 3 John 15 + Revelation 12:18 = 31104
@@ -27,6 +29,7 @@ http://wiki.crosswire.org/OSIS_Tutorial
 Also see osis-examples folder
 
 
+IMPORTANT: DO NOT DELETE NOTES WHICH MAY BE HELPFUL IN THE FUTURE
 
 
 
