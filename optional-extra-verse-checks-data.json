@@ -16,7 +16,6 @@
         ["God", "GOD", "GOD"],
         ["Jehovah", "JEHOVAH", "JEHOVAH"],
         ["\u2019", "'", "'"],
-        ["\u2013", "", "-"],
         ["enquire", "inquire", "enquire"],
         ["Enquire", "Inquire", "Enquire"],
         ["the Hivites", "and the Hivites", "the Hivites", "Exodus 23:23"],
@@ -24,8 +23,32 @@
         ["thee-ward", "theeward", "thee-ward"],
         ["counsellor", "counseller", "counsellor"],
         ["Gaba", "Geba", "Gaba", "Ezra 2:26"],
-        ["expenses", "expences", "expenses"]
+        ["expenses", "expences", "expenses"],
+        ["==========", "==========", "==========", "=========="],
+        ["Tubal\u2013cain", "Tubalcain", "Tubal-cain"],
+        ["Beth\u2013el", "Bethel", "Beth-el"],
+        ["El\u2013paran", "Elparan", "El-paran"],
+        ["En\u2013mishpat", "Enmishpat", "En-mishpat"],
+        ["Hazezon\u2013tamar", "Hazezontamar", "Hazezon-tamar"],
+        ["Beer\u2013lahai\u2013roi", "Beerlahairoi", "Beer-lahai-roi"],
+        ["Ben\u2013ammi", "Benammi", "Ben-ammi"],
+        ["Beer\u2013sheba", "Beersheba", "Beer-sheba"],
+        ["Jehovah\u2013jireh", "Jehovahjireh", "Jehovah-jireh"],
+        ["Kirjath\u2013arba", "Kirjatharba", "Kirjath-arba"],
+        ["Lahai\u2013roi", "Lahairoi", "Lahai-roi"],
+        ["Padan\u2013aram", "Padanaram", "Padan-aram"],
+        ["Jegar\u2013sahadutha", "Jegarsahadutha", "Jegar-sahadutha"],
+        ["El\u2013elohe\u2013Israel", "EleloheIsrael", "El-elohe-Israel"],
+        ["El\u2013beth\u2013el", "Elbethel", "El-beth-el"],
+        ["Allon\u2013bachuth", "Allonbachuth", "Allon-bachuth"],
+        ["Ben\u2013oni", "Benoni", "Ben-oni"],
+        ["Beth\u2013lehem", "Bethlehem", "Beth-lehem"],
+        ["Baal\u2013hanan", "Baalhanan", "Baal-hanan"],
+        ["Zaphnath\u2013paaneah", "Zaphnathpaaneah", "Zaphnath-paaneah"],
+        ["Poti\u2013pherah", "Potipherah", "Poti-pherah"],
+        ["Abel\u2013mizraim", "Abelmizraim", "Abel-mizraim"]
       ]
-    }
+    },
+    "deleteme": ["", "", ""]
   }
 }
