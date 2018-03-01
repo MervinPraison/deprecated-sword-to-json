@@ -30,13 +30,17 @@ Also see osis-examples folder
 
 
 
+checks for Psalm 1 and virgin
+
+checks against SWORD verse count
+
 put checks for common errors - e.g. BOOK
 
-versions with diff verse numbering in Psalms (see Psalm 51) => CJB, Douay-Rheims, NABRE, OJB (kinda), TLV
+versions with diff verse numbering in Psalms (see Psalm 51) => CJB, Douay-Rheims, NABRE, OJB (kinda), The Passion Translation (TPT), Tree of Life Version (TLV)
 
+leave hyphens in coz checks wont find prob if comparator agrees - so some versions will and some wont
 
-
-
+think about hyphen searching - e.g. will searching for bathsheba find bath-sheba?
 
 
 
