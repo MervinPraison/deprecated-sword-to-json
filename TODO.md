@@ -2,7 +2,7 @@ IMPORTANT: DO NOT DELETE NOTES WHICH MAY BE HELPFUL IN THE FUTURE
 
 Consider expected verse count
 
-31102 + 3 John 15 + Revelation 12:18 = 31104
+31102 + 3 John 15 + Revelation 12:18 + 3 from Romans = 31107 + 116 verse 0's from Psalms
 
 Update chapter-and-verse on Rev 12:18 or Romans 14 / Romans 16?
 
