@@ -32,6 +32,21 @@ Also see osis-examples folder
 IMPORTANT: DO NOT DELETE NOTES WHICH MAY BE HELPFUL IN THE FUTURE
 
 
+IMPORTANT: IN CHECK.JSON IF THE SAME AS verse1 or verse2 then do this ... ["a", "b", 2] instead of ["a", "b", "b"]
+
+FIX ORDER FOR CHECKS.JSON
+
+CHANGE LOGIC - IF STARTS WITH A OR B AND OTHER STARTS WITH THE OTHER ONE??
+
+CHECK EXISTING ENTRIES IN CHECKS.JSON TO MAKE SURE THEY ARE RIGHT FOR AKJV
+
+NO INCONSISTENCIES BETWEEN TRANSLATIONS - CHECKS FOR INCONSISTENCIES
+
+
+make sure all translations use ALEPH, BETH, etc in Psalm 119
+
+Problems with Song of Songs?
+
 
 checks for Psalm 1 and virgin and pierced hands
 

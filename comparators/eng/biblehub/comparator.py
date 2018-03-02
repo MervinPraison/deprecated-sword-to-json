@@ -77,9 +77,8 @@ class BibleHubComparator:
 
         omv = my_verse
         ocv = comparator_verse
-
-        verse_zero = psalm[0]
-        verse_one = psalm[1]
+        verse_zero = psalm[0].lower()
+        verse_one = psalm[1].lower()
 
         for prefer in self.prefer:
             # print(my_verse.startswith(prefer[0]))
@@ -93,10 +92,8 @@ class BibleHubComparator:
                 my_verse = my_verse.replace(prefer[0], prefer[2])
                 comparator_verse = comparator_verse.replace(prefer[1], prefer[2])
 
-        print(verse_one in my_verse)
-        print(verse_one in comparator_verse)
-        print(verse_zero in my_verse)
-        print(verse_zero in comparator_verse)
+        my_verse = my_verse.lower()
+        comparator_verse = comparator_verse.lower()
 
         if verse_one in my_verse and verse_one in comparator_verse and (verse_zero in my_verse or verse_zero in comparator_verse):
             # TODO - Return both verses
@@ -109,9 +106,9 @@ class BibleHubComparator:
             print(f'{self.version} - comparator verse:')
             print(f'{self.version} - {ocv}')
             print(f'{self.version} - verse zero:')
-            print(f'{self.version} - {verse_zero}')
+            print(f'{self.version} - {psalm[0]}')
             print(f'{self.version} - verse one:')
-            print(f'{self.version} - {verse_one}')
+            print(f'{self.version} - {psalm[1]}')
             raise Exception(f'{self.version} - BibleHubComparator psalm error')
 
     def compare(self, verse):
