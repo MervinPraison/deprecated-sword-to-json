@@ -24,6 +24,7 @@
         ["razor", "rasor", "razor"],
         ["thee-ward", "theeward", "thee-ward"],
         ["counsellor", "counseller", "counsellor"],
+        ["Counsellor", "Counseller", "Counsellor"],
         ["Gaba", "Geba", "Gaba", "Ezra 2:26"],
         ["expenses", "expences", "expenses"],
         ["==========", "==========", "==========", "=========="],
@@ -268,7 +269,13 @@
         ["Shushan\u2013eduth", "Shushaneduth", "Shushan-eduth"],
         ["Aram\u2013naharaim", "Aramnaharaim", "Aram-naharaim"],
         ["Aram\u2013zobah", "Aramzobah", "Aram-zobah"],
-        ["Shoshannim\u2013Eduth", "ShoshannimEduth", "Shoshannim-Eduth", "Psalm 80:1"]
+        ["Shoshannim\u2013Eduth", "ShoshannimEduth", "Shoshannim-Eduth", "Psalm 80:1"],
+        ["Bath\u2013rabbim", "Bathrabbim", "Bath-rabbim", "Song of Solomon 7:4"],
+        ["Baal\u2013hamon", "Baalhamon", "Baal-hamon", "Song of Solomon 8:11"],
+        ["Shear\u2013jashub", "Shearjashub", "Shear-jashub", "Isaiah 7:3"],
+        ["Maher\u2013shalal\u2013hash\u2013baz", "Mahershalalhashbaz", "Maher-shalal-hash-baz"],
+        ["Beer\u2013elim", "Beerelim", "Beer-elim"],
+        ["Kir\u2013hareseth", "Kirhareseth", "Kir-hareseth"]
       ]
     },
     "deleteme": [
@@ -279,6 +286,7 @@
     "TODO1": "with code check first one is same as second one and third one",
     "TODO2": "restrict replacements to certain verses",
     "TODO3": "no dupes",
+    "TODO4": "refs should be osis refs",
     "notes": [
       "This is really Ps 80:0",
       ["Shoshannim\u2013Eduth", "ShoshannimEduth", "Shoshannim-Eduth", "Psalm 80:1"]
